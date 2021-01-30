@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1556744412 source:c:\users\mostafa98\desktop\binary search tree\dictionary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1556744689 source:e:\faculty of engineering\term 4\data structures\binary search tree\dictionary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
